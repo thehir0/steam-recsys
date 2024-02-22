@@ -13,7 +13,7 @@
     <br />
     <a href="https://github.com/thehir0/steam-recsys/tree/main"><strong>Explore the docs »</strong></a>
      ·
-    <a href="https://drive.google.com/file/d/1C3u76hoq-7fqbN1T6aOajf9SB4nmE7sR/view?usp=sharing"><strong>Check Project Blog on Medium »</strong></a>
+    <a href="https://medium.com/@speedfirefox1/games-recommender-system-using-lightfm-on-steam-dataset-76b05de4c187"><strong>Check Project Blog on Medium »</strong></a>
      ·
     <a href="https://colab.research.google.com/drive/1vH_t9M4LPhg_6PyM4NcM6gQoLQMCFlZX?usp=sharing#scrollTo=aGuPmJgTnNMf"><strong>View Demo »</strong></a>
     <br />
